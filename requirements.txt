@@ -1,0 +1,18 @@
+ # Core dependencies
+pandas==2.2.2
+openpyxl==3.1.2
+
+# For testing
+unittest2; python_version < '3.5'   # only needed for very old Python
+coverage                           # optional: code coverage analysis
+
+# For mocking in tests
+pytest                             # optional but modern alternative to unittest
+pytest-mock                        # if using pytest for mocks
+mock                               # if using older Python (<3.3)
+
+# Optional dev tools
+pylint                             # static analysis
+memory_profiler                   # for performance profiling
+
+
