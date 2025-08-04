@@ -40,7 +40,7 @@ financial-data-parser/
 ## Installation
 
 Make sure you have Python 3.11+ installed.
-git clone https://github.com/your-username/financial-data-parser.git
+git clone [(https://github.com/kshahen905/Financial-Data-Parser.git)]
 cd financial-data-parser
 pip install -r requirements.txt
 
