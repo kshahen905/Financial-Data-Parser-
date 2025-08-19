@@ -1,79 +1,133 @@
-# Financial Data Parser
+ Financial Data Parser & Reconciliation Engine
 
-A modular Python application for parsing, analyzing, and querying financial data from Excel spreadsheets. Designed to handle complex formats, detect column data types, and provide clean, structured outputs for financial processing or reporting.
+A modular Python application that can parse complex Excel financial data (Phase 1) and perform transaction-to-statement reconciliation with multiple strategies (Phase 2).
 
----
+Designed to handle messy Excel formats, detect column types, and provide structured outputs for financial analysis, reconciliation, and reporting.
 
-## Features
+ Features
+ Phase 1 – Financial Data Parsing
 
--  Load multiple Excel files (with multiple sheets)
--  Automatically detect column types: **date**, **number**, **string**
--  Parse currency formats (₹, $, €, K, M, B) and Excel serial dates
--  Query datasets with custom conditions (e.g., `Amount > 1000`)
--  Group and aggregate data (e.g., total by category or month)
--  Fully tested with `unittest`
+Load multiple Excel files (with multiple sheets)
 
----
+Automatically detect column types: date, number, string
 
-## Project Structure
+Parse currency formats (₹, $, €, K, M, B) and Excel serial dates
 
+Query datasets with custom conditions (e.g., Amount > 1000)
+
+Group and aggregate data (e.g., totals by category or month)
+
+Unit-tested with unittest
+
+ Phase 2 – Transaction Reconciliation
+
+Match bank statement targets with customer ledger transactions
+
+Implements multiple reconciliation strategies:
+
+Part 1: Exact 1-to-1 matches
+
+Part 2: Subset sum (small groups of transactions)
+
+Part 3: Optimized hash-based pair matching
+
+Part 4: Genetic-inspired (GA-like) + fuzzy text matching
+
+Part 5: Consolidated reporting & visualization
+
+Saves structured outputs to CSV & Excel
+
+Generates summary charts:
+
+Matches per method
+
+Matched vs unmatched (pie chart)
+
+Execution time per method
+
+📂 Project Structure
 financial-data-parser/
-├── main.py # Entry point
-├── requirements.txt # Project dependencies
-├── README.md # This file
-├── src/ # Core logic
-│ └── core/
-│ ├── data_storage.py
-│ ├── data_type_detector.py
-│ ├── excel_processor.py
-│ ├── format_parser.py
+├── main.py                     # Entry point (runs reconciliation Parts 1–4)
+├── part1_part2_solution.py     # Exact + Subset brute-force reconciliation
+├── part3_solution.py           # Optimized hash-based reconciliation
+├── part4_solution.py           # GA-inspired + fuzzy reconciliation
+├── part5_solution.py           # Reporting & visualization
+├── src/                        # Phase 1 parsing logic
+│   └── core/
+│       ├── data_storage.py
+│       ├── data_type_detector.py
+│       ├── excel_processor.py
+│       ├── format_parser.py
 ├── config/
-│ └── settings.py # Excel file paths & data dir
-├── tests/ # Unit tests for each core module
-├── examples/ # Demo scripts: basic, advanced, performance
-└── scripts/
-└── run_benchmarks.py # Time benchmark for full pipeline
+│   └── settings.py             # Excel file paths & data dir
+├── data/
+│   ├── sample/                 # Input Excel files (ledger + bank)
+│   └── processed/              # Outputs: matches, reports, charts
+├── tests/                      # Unit tests (Phase 1)
+├── examples/                   # Demo scripts (Phase 1)
+├── scripts/
+│   └── run_benchmarks.py       # Phase 1 performance benchmarking
+├── requirements.txt            # Dependencies
+└── README.md                   # This file
 
 
----
-
-## Installation
+ Installation & Environment Setup
 
 Make sure you have Python 3.11+ installed.
-git clone (https://github.com/kshahen905/Financial-Data-Parser-.git)
-cd financial-data-parser
+
+1 Clone repository
+git clone https://github.com/kshahen905/Financial-Data-Parser-.git
+cd Financial-Data-Parser-
+
+2 Create virtual environment (recommended)
+python -m venv venv
+
+
+Activate it:
+
+Windows (PowerShell):
+
+venv\Scripts\activate
+
+
+3. Install dependencies
 pip install -r requirements.txt
 
-# How to Run
-Run the full parser on your dataset:
+▶ How to Run
+Phase 1 – Parsing & Querying
+python src/core/excel_processor.py
 
---python main.py
+Phase 2 – Reconciliation
+Step 1: Run Parts 1–4
+python main.py
 
-# Expected output:
 
- Loading Excel Files...
- Processing Sheet: Sheet1 in KH_Bank.XLSX
- Example Query on Parsed Data
- KH_Bank.XLSX:Sheet1 → Amount > 1000
+Generates reconciliation results in data/processed/.
 
-# Running Tests
+Step 2: Reporting (Part 5)
+python part5_solution.py
 
-Run all unit tests using:
-python -m unittest discover -s tests
-Each core module (data_storage, format_parser, etc.) is fully covered by tests.
 
-# Sample Data Format
+Generates:
 
-Your Excel sheets should contain financial columns such as:
-Date, Amount, Category, Description
-Amounts like $1,234.56, (2,500.00), 1.5M, etc.
-Dates like 2023-12-31, 31/12/2023, or Excel serials like 44927
+part5_summary.csv
 
-# Dependencies
+part5_report.xlsx (multi-sheet Excel with all results)
 
-Main libraries used:
-pandas – data loading and processing
-openpyxl – Excel file reader
-datetime, re – date and text parsing
-unittest – test framework
+unmatched_targets.csv
 
+Charts: matches_bar.png, time_bar.png, matched_vs_unmatched_pie.png
+
+ Example Results (Phase 2 run)
+
+Transactions: 5505
+
+Targets: 1221
+
+Method	Matches	Time (s)	Coverage %
+Exact (Part 1)	17	0.13	1.39%
+Subset (Part 2, first 100)	24	1286.91	1.96%
+Optimized (Part 3)	186	6.50	15.24%
+GA (Part 4.1)	186	5.95	15.24%
+Fuzzy (Part 4.2)	0	3.99	0%
+GA+Fuzzy (Part 4.3)	186	0.02	15.24%
