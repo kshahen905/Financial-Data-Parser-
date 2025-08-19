@@ -1,0 +1,1303 @@
+﻿Target_Ref,Target_Amount,Transaction_ID,Transaction_Amount,Description
+2,20760.83984,"0         OPENSA_0001
+4583    SIPBZ24+01237
+Name: Document No., dtype: object","0           0.00
+4583    20760.84
+Name: Remaining Amt. (LCY), dtype: float64","0           Customer opening
+4583    Invoice SIVI24-01243
+Name: Description, dtype: object"
+6,2002.079956,"0         OPENSA_0001
+4695    SIPBZ24+01362
+Name: Document No., dtype: object","0          0.00
+4695    2002.08
+Name: Remaining Amt. (LCY), dtype: float64","0           Customer opening
+4695    Invoice SIVI24-01367
+Name: Description, dtype: object"
+7,4818.47998,"0         OPENSA_0001
+4694    SIPBZ24+01361
+Name: Document No., dtype: object","0          0.00
+4694    4818.48
+Name: Remaining Amt. (LCY), dtype: float64","0           Customer opening
+4694    Invoice SIVI24-01366
+Name: Description, dtype: object"
+8,918423.0,"55        OPENSA_0056
+3928    SIPBZ24+01056
+Name: Document No., dtype: object","55           0.01
+3928    918422.99
+Name: Remaining Amt. (LCY), dtype: float64","55          Customer opening
+3928    Invoice SIVI24-01061
+Name: Description, dtype: object"
+9,9070.879883,"0         OPENSA_0001
+4874    SIPBZ24+01502
+Name: Document No., dtype: object","0          0.00
+4874    9070.88
+Name: Remaining Amt. (LCY), dtype: float64","0           Customer opening
+4874    Invoice SIVI24-01505
+Name: Description, dtype: object"
+10,23188.9707,"0         OPENSA_0001
+4764    SIPBZ24+01478
+Name: Document No., dtype: object","0           0.00
+4764    23188.97
+Name: Remaining Amt. (LCY), dtype: float64","0           Customer opening
+4764    Invoice SIVI24-01480
+Name: Description, dtype: object"
+2,750.0,"230    OPENSA_0231
+399    OPENSA_0403
+Name: Document No., dtype: object","230    330.0
+399    420.0
+Name: Remaining Amt. (LCY), dtype: float64","230    Customer opening
+399    Customer opening
+Name: Description, dtype: object"
+2,20659.40039,"0         OPENSA_0001
+4474    SIPBZ24+01168
+Name: Document No., dtype: object","0           0.0
+4474    20659.4
+Name: Remaining Amt. (LCY), dtype: float64","0           Customer opening
+4474    Invoice SIVI24-01174
+Name: Description, dtype: object"
+3,80791.20313,"0         OPENSA_0001
+4256    SIPBZ24+00865
+Name: Document No., dtype: object","0           0.0
+4256    80791.2
+Name: Remaining Amt. (LCY), dtype: float64","0           Customer opening
+4256    Invoice SIVI24-00873
+Name: Description, dtype: object"
+4,2012.400024,"0         OPENSA_0001
+4489    SIPBZ24+01175
+Name: Document No., dtype: object","0          0.0
+4489    2012.4
+Name: Remaining Amt. (LCY), dtype: float64","0           Customer opening
+4489    Invoice SIVI24-01180
+Name: Description, dtype: object"
+6,12674.48047,"0         OPENSA_0001
+4382    SIPBZ24+01022
+Name: Document No., dtype: object","0           0.00
+4382    12674.48
+Name: Remaining Amt. (LCY), dtype: float64","0           Customer opening
+4382    Invoice SIVI24-01029
+Name: Description, dtype: object"
+7,12794.59961,"4516    SIPBZ24+01169
+4636    SIPBZ24+01255
+Name: Document No., dtype: object","4516    8586.76
+4636    4207.84
+Name: Remaining Amt. (LCY), dtype: float64","4516    Invoice SIVI24-01176
+4636    Invoice SIVI24-01265
+Name: Description, dtype: object"
+8,14235.21973,"0         OPENSA_0001
+4118    SIPBZ24+01261
+Name: Document No., dtype: object","0           0.00
+4118    14235.22
+Name: Remaining Amt. (LCY), dtype: float64","0           Customer opening
+4118    Invoice SIVI24-01264
+Name: Description, dtype: object"
+2,75189.78906,"4341    SIPBZ24+00975
+4543    SIPBZ24+01148
+Name: Document No., dtype: object","4341    15343.59
+4543    59846.20
+Name: Remaining Amt. (LCY), dtype: float64","4341    Invoice SIVI24-00982
+4543    Invoice SIVI24-01149
+Name: Description, dtype: object"
+3,865.0599976,"0         OPENSA_0001
+3482    SIPBZ24+00608
+Name: Document No., dtype: object","0         0.00
+3482    865.06
+Name: Remaining Amt. (LCY), dtype: float64","0           Customer opening
+3482    Invoice SIVI24-00605
+Name: Description, dtype: object"
+4,14830.59961,"0         OPENSA_0001
+4767    SIPBZ24+01487
+Name: Document No., dtype: object","0           0.0
+4767    14830.6
+Name: Remaining Amt. (LCY), dtype: float64","0           Customer opening
+4767    Invoice SIVI24-01489
+Name: Description, dtype: object"
+5,42807.60156,"0         OPENSA_0001
+4698    SIPBZ24+01365
+Name: Document No., dtype: object","0           0.0
+4698    42807.6
+Name: Remaining Amt. (LCY), dtype: float64","0           Customer opening
+4698    Invoice SIVI24-01370
+Name: Description, dtype: object"
+7,10947.04004,"0         OPENSA_0001
+3844    SIPBZ24+00505
+Name: Document No., dtype: object","0           0.00
+3844    10947.04
+Name: Remaining Amt. (LCY), dtype: float64","0           Customer opening
+3844    Invoice SIVI24-00513
+Name: Description, dtype: object"
+8,17486.19922,"0         OPENSA_0001
+4420    SIPBZ24+01034
+Name: Document No., dtype: object","0           0.0
+4420    17486.2
+Name: Remaining Amt. (LCY), dtype: float64","0           Customer opening
+4420    Invoice SIVI24-01039
+Name: Description, dtype: object"
+9,4615.799805,"0         OPENSA_0001
+4766    SIPBZ24+01482
+Name: Document No., dtype: object","0          0.0
+4766    4615.8
+Name: Remaining Amt. (LCY), dtype: float64","0           Customer opening
+4766    Invoice SIVI24-01484
+Name: Description, dtype: object"
+10,4435.200195,"0         OPENSA_0001
+4790    SIPBZ24+01489
+Name: Document No., dtype: object","0          0.0
+4790    4435.2
+Name: Remaining Amt. (LCY), dtype: float64","0           Customer opening
+4790    Invoice SIVI24-01491
+Name: Description, dtype: object"
+11,9012.639648,"4927    SIPBZ24+01612
+4930    SIPBZ24+01618
+Name: Document No., dtype: object","4927    4418.96
+4930    4593.68
+Name: Remaining Amt. (LCY), dtype: float64","4927    Invoice SIVI24-01619
+4930    Invoice SIVI24-01627
+Name: Description, dtype: object"
+5,14941.0,"5181    SIPBZ24+01894
+5428    SIPBZ24+02087
+Name: Document No., dtype: object","5181    6521.88
+5428    8419.12
+Name: Remaining Amt. (LCY), dtype: float64","5181    Invoice SIVI24-01898
+5428    Invoice SIVI24-02089
+Name: Description, dtype: object"
+2,15336.71973,"0         OPENSA_0001
+4973    SIPBZ24+01616
+Name: Document No., dtype: object","0           0.00
+4973    15336.72
+Name: Remaining Amt. (LCY), dtype: float64","0           Customer opening
+4973    Invoice SIVI24-01625
+Name: Description, dtype: object"
+3,307841.5,"4402    SIPBZ24+00958
+4526    SIPBZ24+01092
+Name: Document No., dtype: object","4402    167877.34
+4526    139964.16
+Name: Remaining Amt. (LCY), dtype: float64","4402    Invoice SIVI24-00964
+4526    Invoice SIVI24-01096
+Name: Description, dtype: object"
+4,62993.16016,"0         OPENSA_0001
+4787    SIPBZ24+01477
+Name: Document No., dtype: object","0           0.00
+4787    62993.16
+Name: Remaining Amt. (LCY), dtype: float64","0           Customer opening
+4787    Invoice SIVI24-01479
+Name: Description, dtype: object"
+5,47537.01172,"0         OPENSA_0001
+4237    SIPBZ24+00805
+Name: Document No., dtype: object","0           0.00
+4237    47537.01
+Name: Remaining Amt. (LCY), dtype: float64","0           Customer opening
+4237    Invoice SIVI24-00808
+Name: Description, dtype: object"
+3,6388.0,"4200    SIPBZ24+00886
+4591    SIPBZ24+01258
+Name: Document No., dtype: object","4200    1267.0
+4591    5121.0
+Name: Remaining Amt. (LCY), dtype: float64","4200    Invoice SIVI24-00892
+4591    Invoice SIVI24-01268
+Name: Description, dtype: object"
+2,6924.549805,"0         OPENSA_0001
+4009    SIPBZ24+00737
+Name: Document No., dtype: object","0          0.00
+4009    6924.55
+Name: Remaining Amt. (LCY), dtype: float64","0           Customer opening
+4009    Invoice SIVI24-00690
+Name: Description, dtype: object"
+3,22255.96094,"4435    SIPBZ24+01009
+4502    SIPBZ24+01083
+Name: Document No., dtype: object","4435     4703.76
+4502    17552.20
+Name: Remaining Amt. (LCY), dtype: float64","4435    Invoice SIVI24-01015
+4502    Invoice SIVI24-01087
+Name: Description, dtype: object"
+4,22600.0,"0         OPENSA_0001
+4706    SIPBZ24+01384
+Name: Document No., dtype: object","0           0.0
+4706    22600.0
+Name: Remaining Amt. (LCY), dtype: float64","0           Customer opening
+4706    Invoice SIVI24-01389
+Name: Description, dtype: object"
+5,4444.319824,"0         OPENSA_0001
+4974    SIPBZ24+01620
+Name: Document No., dtype: object","0          0.00
+4974    4444.32
+Name: Remaining Amt. (LCY), dtype: float64","0           Customer opening
+4974    Invoice SIVI24-01629
+Name: Description, dtype: object"
+6,40520.62109,"0         OPENSA_0001
+4405    SIPBZ24+00965
+Name: Document No., dtype: object","0           0.00
+4405    40520.62
+Name: Remaining Amt. (LCY), dtype: float64","0           Customer opening
+4405    Invoice SIVI24-00971
+Name: Description, dtype: object"
+2,800.0,"231       OPENSA_0232
+5011    SIPBZ24+01642
+Name: Document No., dtype: object","231     300.0
+5011    500.0
+Name: Remaining Amt. (LCY), dtype: float64","231         Customer opening
+5011    Invoice SIVI24-01648
+Name: Description, dtype: object"
+4,25000.0,"193       OPENSA_0194
+4706    SIPBZ24+01384
+Name: Document No., dtype: object","193      2400.0
+4706    22600.0
+Name: Remaining Amt. (LCY), dtype: float64","193         Customer opening
+4706    Invoice SIVI24-01389
+Name: Description, dtype: object"
+2,9312.240234,"0         OPENSA_0001
+4949    SIPBZ24+01609
+Name: Document No., dtype: object","0          0.00
+4949    9312.24
+Name: Remaining Amt. (LCY), dtype: float64","0           Customer opening
+4949    Invoice SIVI24-01616
+Name: Description, dtype: object"
+3,49220.5,"0         OPENSA_0001
+5016    SIPBZ24+01623
+Name: Document No., dtype: object","0           0.0
+5016    49220.5
+Name: Remaining Amt. (LCY), dtype: float64","0           Customer opening
+5016    Invoice SIVI24-01633
+Name: Description, dtype: object"
+4,22104.0,"0         OPENSA_0001
+4909    SIPBZ24+01625
+Name: Document No., dtype: object","0           0.0
+4909    22104.0
+Name: Remaining Amt. (LCY), dtype: float64","0           Customer opening
+4909    Invoice SIVI24-01607
+Name: Description, dtype: object"
+6,12929.28027,"0         OPENSA_0001
+4972    SIPBZ24+01611
+Name: Document No., dtype: object","0           0.00
+4972    12929.28
+Name: Remaining Amt. (LCY), dtype: float64","0           Customer opening
+4972    Invoice SIVI24-01618
+Name: Description, dtype: object"
+7,8028.959961,"4904    SIPBZ24+01600
+5008    SIPBZ24+01622
+Name: Document No., dtype: object","4904    2017.56
+5008    6011.40
+Name: Remaining Amt. (LCY), dtype: float64","4904    Invoice SIVI24-01606
+5008    Invoice SIVI24-01631
+Name: Description, dtype: object"
+1,5000.0,"231       OPENSA_0232
+4359    SIPBZ24+00941
+Name: Document No., dtype: object","231      300.0
+4359    4700.0
+Name: Remaining Amt. (LCY), dtype: float64","231         Customer opening
+4359    Invoice SIVI24-00944
+Name: Description, dtype: object"
+2,32213.25,"0         OPENSA_0001
+4083    SIPBZ24+00715
+Name: Document No., dtype: object","0           0.00
+4083    32213.25
+Name: Remaining Amt. (LCY), dtype: float64","0           Customer opening
+4083    Invoice SIVI24-00731
+Name: Description, dtype: object"
+3,14729.40039,"0         OPENSA_0001
+3634    SIPBZ24+00366
+Name: Document No., dtype: object","0           0.0
+3634    14729.4
+Name: Remaining Amt. (LCY), dtype: float64","0           Customer opening
+3634    Invoice SIVI24-00365
+Name: Description, dtype: object"
+4,1515.469971,"0         OPENSA_0001
+4922    SIPBZ24+01566
+Name: Document No., dtype: object","0          0.00
+4922    1515.47
+Name: Remaining Amt. (LCY), dtype: float64","0           Customer opening
+4922    Invoice SIVI24-01565
+Name: Description, dtype: object"
+6,22600.0,"0         OPENSA_0001
+4706    SIPBZ24+01384
+Name: Document No., dtype: object","0           0.0
+4706    22600.0
+Name: Remaining Amt. (LCY), dtype: float64","0           Customer opening
+4706    Invoice SIVI24-01389
+Name: Description, dtype: object"
+7,14320.2002,"0         OPENSA_0001
+4907    SIPBZ24+01615
+Name: Document No., dtype: object","0           0.0
+4907    14320.2
+Name: Remaining Amt. (LCY), dtype: float64","0           Customer opening
+4907    Invoice SIVI24-01624
+Name: Description, dtype: object"
+5,25000.0,"193       OPENSA_0194
+4706    SIPBZ24+01384
+Name: Document No., dtype: object","193      2400.0
+4706    22600.0
+Name: Remaining Amt. (LCY), dtype: float64","193         Customer opening
+4706    Invoice SIVI24-01389
+Name: Description, dtype: object"
+7,90000.0,"0         OPENSA_0001
+5150    SIPBZ24+01818
+Name: Document No., dtype: object","0           0.0
+5150    90000.0
+Name: Remaining Amt. (LCY), dtype: float64","0           Customer opening
+5150    Invoice SIVI24-01854
+Name: Description, dtype: object"
+8,45000.0,"4125    SIPBZ24+01304
+4540    SIPBZ24+01124
+Name: Document No., dtype: object","4125    10860.37
+4540    34139.63
+Name: Remaining Amt. (LCY), dtype: float64","4125    Invoice SIVI24-01308
+4540    Invoice SIVI24-01097
+Name: Description, dtype: object"
+9,45000.0,"4125    SIPBZ24+01304
+4540    SIPBZ24+01124
+Name: Document No., dtype: object","4125    10860.37
+4540    34139.63
+Name: Remaining Amt. (LCY), dtype: float64","4125    Invoice SIVI24-01308
+4540    Invoice SIVI24-01097
+Name: Description, dtype: object"
+10,5000.0,"231       OPENSA_0232
+4359    SIPBZ24+00941
+Name: Document No., dtype: object","231      300.0
+4359    4700.0
+Name: Remaining Amt. (LCY), dtype: float64","231         Customer opening
+4359    Invoice SIVI24-00944
+Name: Description, dtype: object"
+2,1867.280029,"0         OPENSA_0001
+4784    SIPBZ24+01452
+Name: Document No., dtype: object","0          0.00
+4784    1867.28
+Name: Remaining Amt. (LCY), dtype: float64","0           Customer opening
+4784    Invoice SIVI24-01457
+Name: Description, dtype: object"
+3,6930.009766,"0         OPENSA_0001
+4756    SIPBZ24+01420
+Name: Document No., dtype: object","0          0.00
+4756    6930.01
+Name: Remaining Amt. (LCY), dtype: float64","0           Customer opening
+4756    Invoice SIVI24-01425
+Name: Description, dtype: object"
+11,5000.0,"231       OPENSA_0232
+4359    SIPBZ24+00941
+Name: Document No., dtype: object","231      300.0
+4359    4700.0
+Name: Remaining Amt. (LCY), dtype: float64","231         Customer opening
+4359    Invoice SIVI24-00944
+Name: Description, dtype: object"
+2,25.87999916,"3335    SIPBZ24+00618
+5232    SIPBZ24+01927
+Name: Document No., dtype: object","3335    24.84
+5232     1.04
+Name: Remaining Amt. (LCY), dtype: float64","3335    Invoice SIVI24-00621
+5232    Invoice SIVI24-01932
+Name: Description, dtype: object"
+3,676.0,"3622    SIPBZ24+00630
+4981    SIPBZ24+01811
+Name: Document No., dtype: object","3622    159.4
+4981    516.6
+Name: Remaining Amt. (LCY), dtype: float64","3622    Invoice SIVI24-00610
+4981    Invoice SIVI24-01816
+Name: Description, dtype: object"
+2,7574.660156,"0         OPENSA_0001
+4138    SIPBZ24+00808
+Name: Document No., dtype: object","0          0.00
+4138    7574.66
+Name: Remaining Amt. (LCY), dtype: float64","0           Customer opening
+4138    Invoice SIVI24-00812
+Name: Description, dtype: object"
+3,12907.59961,"0         OPENSA_0001
+5074    SIPBZ24+01740
+Name: Document No., dtype: object","0           0.0
+5074    12907.6
+Name: Remaining Amt. (LCY), dtype: float64","0           Customer opening
+5074    Invoice SIVI24-01755
+Name: Description, dtype: object"
+5,33848.33984,"0         OPENSA_0001
+5002    SIPBZ24+01597
+Name: Document No., dtype: object","0           0.00
+5002    33848.34
+Name: Remaining Amt. (LCY), dtype: float64","0           Customer opening
+5002    Invoice SIVI24-01601
+Name: Description, dtype: object"
+10,30234.89063,"4303    SIPBZ24+01075
+4999    SIPBZ24+01589
+Name: Document No., dtype: object","4303    27515.20
+4999     2719.69
+Name: Remaining Amt. (LCY), dtype: float64","4303    Invoice SIVI24-01080
+4999    Invoice SIVI24-01589
+Name: Description, dtype: object"
+9,12736.7998,"3839    SIPBZ24+00487
+4337    SIPBZ24+00924
+Name: Document No., dtype: object","3839    8063.12
+4337    4673.68
+Name: Remaining Amt. (LCY), dtype: float64","3839    Invoice SIVI24-00472
+4337    Invoice SIVI24-00932
+Name: Description, dtype: object"
+11,16950.0,"4171    SIPBZ24+00880
+4818    SIPBZ24+01494
+Name: Document No., dtype: object","4171     2469.6
+4818    14480.4
+Name: Remaining Amt. (LCY), dtype: float64","4171    Invoice SIVI24-00885
+4818    Invoice SIVI24-01497
+Name: Description, dtype: object"
+9,12736.7998,"3839    SIPBZ24+00487
+4337    SIPBZ24+00924
+Name: Document No., dtype: object","3839    8063.12
+4337    4673.68
+Name: Remaining Amt. (LCY), dtype: float64","3839    Invoice SIVI24-00472
+4337    Invoice SIVI24-00932
+Name: Description, dtype: object"
+11,16950.0,"4171    SIPBZ24+00880
+4818    SIPBZ24+01494
+Name: Document No., dtype: object","4171     2469.6
+4818    14480.4
+Name: Remaining Amt. (LCY), dtype: float64","4171    Invoice SIVI24-00885
+4818    Invoice SIVI24-01497
+Name: Description, dtype: object"
+2,14233.0,"4765    SIPBZ24+01479
+5474    SIPBZ24+02085
+Name: Document No., dtype: object","4765    5638.8
+5474    8594.2
+Name: Remaining Amt. (LCY), dtype: float64","4765    Invoice SIVI24-01481
+5474    Invoice SIVI24-02087
+Name: Description, dtype: object"
+7,5650.0,"234       OPENSA_0235
+5339    SIPBZ24+01970
+Name: Document No., dtype: object","234      900.0
+5339    4750.0
+Name: Remaining Amt. (LCY), dtype: float64","234         Customer opening
+5339    Invoice SIVI24-01973
+Name: Description, dtype: object"
+5,42882.0,"4699    SIPBZ24+01368
+5162    SIPBZ24+01672
+Name: Document No., dtype: object","4699    21564.0
+5162    21318.0
+Name: Remaining Amt. (LCY), dtype: float64","4699    Invoice SIVI24-01373
+5162    Invoice SIVI24-01735
+Name: Description, dtype: object"
+4,1176.0,"229    OPENSA_0230
+237    OPENSA_0238
+Name: Document No., dtype: object","229    888.0
+237    288.0
+Name: Remaining Amt. (LCY), dtype: float64","229    Customer opening
+237    Customer opening
+Name: Description, dtype: object"
+2,10073.0,"403      OPENSA_0407
+2899    PBZ-24-01124
+Name: Document No., dtype: object","403     2625.0
+2899    7448.0
+Name: Remaining Amt. (LCY), dtype: float64","403         Customer opening
+2899    Invoice PBZ-24-01124
+Name: Description, dtype: object"
+3,300.0,"0      OPENSA_0001
+231    OPENSA_0232
+Name: Document No., dtype: object","0        0.0
+231    300.0
+Name: Remaining Amt. (LCY), dtype: float64","0      Customer opening
+231    Customer opening
+Name: Description, dtype: object"
+2,10224.48047,"0         OPENSA_0001
+4549    SIPBZ24+01166
+Name: Document No., dtype: object","0           0.00
+4549    10224.48
+Name: Remaining Amt. (LCY), dtype: float64","0           Customer opening
+4549    Invoice SIVI24-01171
+Name: Description, dtype: object"
+3,42723.0,"0         OPENSA_0001
+4386    SIPBZ24+01041
+Name: Document No., dtype: object","0           0.0
+4386    42723.0
+Name: Remaining Amt. (LCY), dtype: float64","0           Customer opening
+4386    Invoice SIVI24-01047
+Name: Description, dtype: object"
+4,3767.580078,"0         OPENSA_0001
+4231    SIPBZ24+00828
+Name: Document No., dtype: object","0          0.00
+4231    3767.58
+Name: Remaining Amt. (LCY), dtype: float64","0           Customer opening
+4231    Invoice SIVI24-00832
+Name: Description, dtype: object"
+5,1263.810059,"0         OPENSA_0001
+4356    SIPBZ24+01049
+Name: Document No., dtype: object","0          0.00
+4356    1263.81
+Name: Remaining Amt. (LCY), dtype: float64","0           Customer opening
+4356    Invoice SIVI24-01051
+Name: Description, dtype: object"
+6,6195.040039,"0         OPENSA_0001
+4324    SIPBZ24+01040
+Name: Document No., dtype: object","0          0.00
+4324    6195.04
+Name: Remaining Amt. (LCY), dtype: float64","0           Customer opening
+4324    Invoice SIVI24-01046
+Name: Description, dtype: object"
+7,17556.0,"0         OPENSA_0001
+4388    SIPBZ24+01048
+Name: Document No., dtype: object","0           0.0
+4388    17556.0
+Name: Remaining Amt. (LCY), dtype: float64","0           Customer opening
+4388    Invoice SIVI24-01050
+Name: Description, dtype: object"
+9,33104.64063,"3042     PBZ-24-01234
+4384    SIPBZ24+01037
+Name: Document No., dtype: object","3042    14716.80
+4384    18387.84
+Name: Remaining Amt. (LCY), dtype: float64","3042    Invoice PBZ-24-01234
+4384    Invoice SIVI24-01042
+Name: Description, dtype: object"
+10,22600.0,"0         OPENSA_0001
+4706    SIPBZ24+01384
+Name: Document No., dtype: object","0           0.0
+4706    22600.0
+Name: Remaining Amt. (LCY), dtype: float64","0           Customer opening
+4706    Invoice SIVI24-01389
+Name: Description, dtype: object"
+11,13586.82031,"0         OPENSA_0001
+3734    SIPBZ24+00394
+Name: Document No., dtype: object","0           0.00
+3734    13586.82
+Name: Remaining Amt. (LCY), dtype: float64","0           Customer opening
+3734    Invoice SIVI24-00314
+Name: Description, dtype: object"
+25,23600.0,"4129    SIPBZ24+00659
+5141    SIPBZ24+01747
+Name: Document No., dtype: object","4129    17511.2
+5141     6088.8
+Name: Remaining Amt. (LCY), dtype: float64","4129    Invoice SIVI24-00683
+5141    Invoice SIVI24-01762
+Name: Description, dtype: object"
+27,20320.0,"4728    SIPBZ24+01346
+5429    SIPBZ24+02088
+Name: Document No., dtype: object","4728    12839.27
+5429     7480.73
+Name: Remaining Amt. (LCY), dtype: float64","4728    Invoice SIVI24-01348
+5429    Invoice SIVI24-02090
+Name: Description, dtype: object"
+30,90000.0,"0         OPENSA_0001
+5150    SIPBZ24+01818
+Name: Document No., dtype: object","0           0.0
+5150    90000.0
+Name: Remaining Amt. (LCY), dtype: float64","0           Customer opening
+5150    Invoice SIVI24-01854
+Name: Description, dtype: object"
+85,90000.0,"0         OPENSA_0001
+5150    SIPBZ24+01818
+Name: Document No., dtype: object","0           0.0
+5150    90000.0
+Name: Remaining Amt. (LCY), dtype: float64","0           Customer opening
+5150    Invoice SIVI24-01854
+Name: Description, dtype: object"
+123,53340.0,"4372    SIPBZ24+00996
+4372    SIPBZ24+00996
+Name: Document No., dtype: object","4372    26670.0
+4372    26670.0
+Name: Remaining Amt. (LCY), dtype: float64","4372    Invoice SIVI24-01001
+4372    Invoice SIVI24-01001
+Name: Description, dtype: object"
+2,14716.7998,"0        OPENSA_0001
+3042    PBZ-24-01234
+Name: Document No., dtype: object","0           0.0
+3042    14716.8
+Name: Remaining Amt. (LCY), dtype: float64","0           Customer opening
+3042    Invoice PBZ-24-01234
+Name: Description, dtype: object"
+3,6788.02002,"0         OPENSA_0001
+3285    SIPBZ24+00178
+Name: Document No., dtype: object","0          0.00
+3285    6788.02
+Name: Remaining Amt. (LCY), dtype: float64","0           Customer opening
+3285    Invoice SIVI24-00181
+Name: Description, dtype: object"
+4,6844.589844,"0         OPENSA_0001
+3822    SIPBZ24+00441
+Name: Document No., dtype: object","0          0.00
+3822    6844.59
+Name: Remaining Amt. (LCY), dtype: float64","0           Customer opening
+3822    Invoice SIVI24-00449
+Name: Description, dtype: object"
+5,11204.7002,"0         OPENSA_0001
+4263    SIPBZ24+00899
+Name: Document No., dtype: object","0           0.0
+4263    11204.7
+Name: Remaining Amt. (LCY), dtype: float64","0           Customer opening
+4263    Invoice SIVI24-00902
+Name: Description, dtype: object"
+6,5002.080078,"0         OPENSA_0001
+4589    SIPBZ24+01246
+Name: Document No., dtype: object","0          0.00
+4589    5002.08
+Name: Remaining Amt. (LCY), dtype: float64","0           Customer opening
+4589    Invoice SIVI24-01254
+Name: Description, dtype: object"
+7,27515.19922,"0         OPENSA_0001
+4303    SIPBZ24+01075
+Name: Document No., dtype: object","0           0.0
+4303    27515.2
+Name: Remaining Amt. (LCY), dtype: float64","0           Customer opening
+4303    Invoice SIVI24-01080
+Name: Description, dtype: object"
+2,7686.600098,"0         OPENSA_0001
+4470    SIPBZ24+01155
+Name: Document No., dtype: object","0          0.0
+4470    7686.6
+Name: Remaining Amt. (LCY), dtype: float64","0           Customer opening
+4470    Invoice SIVI24-01167
+Name: Description, dtype: object"
+3,69611.79688,"0         OPENSA_0001
+4230    SIPBZ24+00911
+Name: Document No., dtype: object","0           0.0
+4230    69611.8
+Name: Remaining Amt. (LCY), dtype: float64","0           Customer opening
+4230    Invoice SIVI24-00914
+Name: Description, dtype: object"
+6,22302.40039,"4042    SIPBZ24+00723
+4100    SIPBZ24+00776
+Name: Document No., dtype: object","4042    17372.8
+4100     4929.6
+Name: Remaining Amt. (LCY), dtype: float64","4042    Invoice SIVI24-00740
+4100    Invoice SIVI24-00775
+Name: Description, dtype: object"
+7,117460.8984,"4001    SIPBZ24+00708
+4078    SIPBZ24+00703
+Name: Document No., dtype: object","4001    35315.2
+4078    82145.7
+Name: Remaining Amt. (LCY), dtype: float64","4001    Invoice SIVI24-00724
+4078    Invoice SIVI24-00718
+Name: Description, dtype: object"
+8,13633.75977,"0         OPENSA_0001
+4434    SIPBZ24+01008
+Name: Document No., dtype: object","0           0.00
+4434    13633.76
+Name: Remaining Amt. (LCY), dtype: float64","0           Customer opening
+4434    Invoice SIVI24-01014
+Name: Description, dtype: object"
+9,376.9200134,"0         OPENSA_0001
+4755    SIPBZ24+01385
+Name: Document No., dtype: object","0         0.00
+4755    376.92
+Name: Remaining Amt. (LCY), dtype: float64","0           Customer opening
+4755    Invoice SIVI24-01390
+Name: Description, dtype: object"
+11,7027.160156,"0         OPENSA_0001
+3766    SIPBZ24+00436
+Name: Document No., dtype: object","0          0.00
+3766    7027.16
+Name: Remaining Amt. (LCY), dtype: float64","0           Customer opening
+3766    Invoice SIVI24-00440
+Name: Description, dtype: object"
+2,9191.0,"4323    SIPBZ24+01039
+4471    SIPBZ24+01157
+Name: Document No., dtype: object","4323    4553.64
+4471    4637.36
+Name: Remaining Amt. (LCY), dtype: float64","4323    Invoice SIVI24-01045
+4471    Invoice SIVI24-01169
+Name: Description, dtype: object"
+3,13525.59961,"0         OPENSA_0001
+4305    SIPBZ24+01086
+Name: Document No., dtype: object","0           0.0
+4305    13525.6
+Name: Remaining Amt. (LCY), dtype: float64","0           Customer opening
+4305    Invoice SIVI24-01091
+Name: Description, dtype: object"
+4,4959.0,"0         OPENSA_0001
+4389    SIPBZ24+01050
+Name: Document No., dtype: object","0          0.0
+4389    4959.0
+Name: Remaining Amt. (LCY), dtype: float64","0           Customer opening
+4389    Invoice SIVI24-01054
+Name: Description, dtype: object"
+5,60686.94922,"0         OPENSA_0001
+4459    SIPBZ24+01093
+Name: Document No., dtype: object","0           0.00
+4459    60686.95
+Name: Remaining Amt. (LCY), dtype: float64","0           Customer opening
+4459    Invoice SIVI24-01100
+Name: Description, dtype: object"
+7,5037.879883,"0         OPENSA_0001
+3864    SIPBZ24+00422
+Name: Document No., dtype: object","0          0.00
+3864    5037.88
+Name: Remaining Amt. (LCY), dtype: float64","0           Customer opening
+3864    Invoice SIVI24-00420
+Name: Description, dtype: object"
+8,16174.91992,"0         OPENSA_0001
+4545    SIPBZ24+01151
+Name: Document No., dtype: object","0           0.00
+4545    16174.92
+Name: Remaining Amt. (LCY), dtype: float64","0           Customer opening
+4545    Invoice SIVI24-01154
+Name: Description, dtype: object"
+9,13406.24023,"0         OPENSA_0001
+4635    SIPBZ24+01254
+Name: Document No., dtype: object","0           0.00
+4635    13406.24
+Name: Remaining Amt. (LCY), dtype: float64","0           Customer opening
+4635    Invoice SIVI24-01263
+Name: Description, dtype: object"
+3,11292.0,"3895    SIPBZ24+00513
+4589    SIPBZ24+01246
+Name: Document No., dtype: object","3895    6289.92
+4589    5002.08
+Name: Remaining Amt. (LCY), dtype: float64","3895    Invoice SIVI24-00529
+4589    Invoice SIVI24-01254
+Name: Description, dtype: object"
+2,25250.40039,"0         OPENSA_0001
+4084    SIPBZ24+00716
+Name: Document No., dtype: object","0           0.0
+4084    25250.4
+Name: Remaining Amt. (LCY), dtype: float64","0           Customer opening
+4084    Invoice SIVI24-00732
+Name: Description, dtype: object"
+3,1489.560059,"0         OPENSA_0001
+4268    SIPBZ24+01288
+Name: Document No., dtype: object","0          0.00
+4268    1489.56
+Name: Remaining Amt. (LCY), dtype: float64","0           Customer opening
+4268    Invoice SIVI24-01282
+Name: Description, dtype: object"
+4,145414.7969,"0         OPENSA_0001
+4065    SIPBZ24+00672
+Name: Document No., dtype: object","0            0.0
+4065    145414.8
+Name: Remaining Amt. (LCY), dtype: float64","0           Customer opening
+4065    Invoice SIVI24-00669
+Name: Description, dtype: object"
+5,22321.0,"0         OPENSA_0001
+4348    SIPBZ24+01021
+Name: Document No., dtype: object","0           0.0
+4348    22321.0
+Name: Remaining Amt. (LCY), dtype: float64","0           Customer opening
+4348    Invoice SIVI24-01028
+Name: Description, dtype: object"
+6,5002.080078,"0         OPENSA_0001
+4589    SIPBZ24+01246
+Name: Document No., dtype: object","0          0.00
+4589    5002.08
+Name: Remaining Amt. (LCY), dtype: float64","0           Customer opening
+4589    Invoice SIVI24-01254
+Name: Description, dtype: object"
+7,6811.680176,"0         OPENSA_0001
+4584    SIPBZ24+01239
+Name: Document No., dtype: object","0          0.00
+4584    6811.68
+Name: Remaining Amt. (LCY), dtype: float64","0           Customer opening
+4584    Invoice SIVI24-01245
+Name: Description, dtype: object"
+11,4886.759766,"0         OPENSA_0001
+4166    SIPBZ24+00870
+Name: Document No., dtype: object","0          0.00
+4166    4886.76
+Name: Remaining Amt. (LCY), dtype: float64","0           Customer opening
+4166    Invoice SIVI24-00879
+Name: Description, dtype: object"
+2,20258.0,"193       OPENSA_0194
+4048    SIPBZ24+00778
+Name: Document No., dtype: object","193      2400.0
+4048    17858.0
+Name: Remaining Amt. (LCY), dtype: float64","193         Customer opening
+4048    Invoice SIVI24-00778
+Name: Description, dtype: object"
+3,19796.13086,"0         OPENSA_0001
+3706    SIPBZ24+00321
+Name: Document No., dtype: object","0           0.00
+3706    19796.13
+Name: Remaining Amt. (LCY), dtype: float64","0           Customer opening
+3706    Invoice SIVI24-00315
+Name: Description, dtype: object"
+4,8154.52002,"0         OPENSA_0001
+4546    SIPBZ24+01158
+Name: Document No., dtype: object","0          0.00
+4546    8154.52
+Name: Remaining Amt. (LCY), dtype: float64","0           Customer opening
+4546    Invoice SIVI24-01156
+Name: Description, dtype: object"
+5,36755.0,"4436    SIPBZ24+01010
+4715    SIPBZ24+01325
+Name: Document No., dtype: object","4436    13338.44
+4715    23416.56
+Name: Remaining Amt. (LCY), dtype: float64","4436    Invoice SIVI24-01021
+4715    Invoice SIVI24-01330
+Name: Description, dtype: object"
+6,59055.44141,"4029    SIPBZ24+00665
+4889    SIPBZ24+01936
+Name: Document No., dtype: object","4029    32115.76
+4889    26939.68
+Name: Remaining Amt. (LCY), dtype: float64","4029    Invoice SIVI24-00659
+4889    Invoice SIVI24-01941
+Name: Description, dtype: object"
+7,3425.159912,"0         OPENSA_0001
+4585    SIPBZ24+01240
+Name: Document No., dtype: object","0          0.00
+4585    3425.16
+Name: Remaining Amt. (LCY), dtype: float64","0           Customer opening
+4585    Invoice SIVI24-01246
+Name: Description, dtype: object"
+8,22600.0,"0         OPENSA_0001
+4706    SIPBZ24+01384
+Name: Document No., dtype: object","0           0.0
+4706    22600.0
+Name: Remaining Amt. (LCY), dtype: float64","0           Customer opening
+4706    Invoice SIVI24-01389
+Name: Description, dtype: object"
+10,119926.3984,"4202    SIPBZ24+00888
+4250    SIPBZ24+00838
+Name: Document No., dtype: object","4202     17871.2
+4250    102055.2
+Name: Remaining Amt. (LCY), dtype: float64","4202    Invoice SIVI24-00894
+4250    Invoice SIVI24-00853
+Name: Description, dtype: object"
+2,1522.140015,"0         OPENSA_0001
+4702    SIPBZ24+01376
+Name: Document No., dtype: object","0          0.00
+4702    1522.14
+Name: Remaining Amt. (LCY), dtype: float64","0           Customer opening
+4702    Invoice SIVI24-01381
+Name: Description, dtype: object"
+3,13623.91992,"4319    SIPBZ24+00995
+4464    SIPBZ24+01114
+Name: Document No., dtype: object","4319    6752.84
+4464    6871.08
+Name: Remaining Amt. (LCY), dtype: float64","4319    Invoice SIVI24-01000
+4464    Invoice SIVI24-01131
+Name: Description, dtype: object"
+4,20777.75977,"0         OPENSA_0001
+4450    SIPBZ24+01152
+Name: Document No., dtype: object","0           0.00
+4450    20777.76
+Name: Remaining Amt. (LCY), dtype: float64","0           Customer opening
+4450    Invoice SIVI24-01155
+Name: Description, dtype: object"
+5,17641.59961,"0         OPENSA_0001
+4693    SIPBZ24+01355
+Name: Document No., dtype: object","0           0.0
+4693    17641.6
+Name: Remaining Amt. (LCY), dtype: float64","0           Customer opening
+4693    Invoice SIVI24-01361
+Name: Description, dtype: object"
+6,5035.799805,"0         OPENSA_0001
+4453    SIPBZ24+01176
+Name: Document No., dtype: object","0          0.0
+4453    5035.8
+Name: Remaining Amt. (LCY), dtype: float64","0           Customer opening
+4453    Invoice SIVI24-01181
+Name: Description, dtype: object"
+7,21564.0,"0         OPENSA_0001
+4699    SIPBZ24+01368
+Name: Document No., dtype: object","0           0.0
+4699    21564.0
+Name: Remaining Amt. (LCY), dtype: float64","0           Customer opening
+4699    Invoice SIVI24-01373
+Name: Description, dtype: object"
+8,16747.67969,"0         OPENSA_0001
+4587    SIPBZ24+01244
+Name: Document No., dtype: object","0           0.00
+4587    16747.68
+Name: Remaining Amt. (LCY), dtype: float64","0           Customer opening
+4587    Invoice SIVI24-01251
+Name: Description, dtype: object"
+10,40418.30859,"0         OPENSA_0001
+4061    SIPBZ24+00667
+Name: Document No., dtype: object","0           0.00
+4061    40418.31
+Name: Remaining Amt. (LCY), dtype: float64","0           Customer opening
+4061    Invoice SIVI24-00661
+Name: Description, dtype: object"
+6,3000.0,"193    OPENSA_0194
+401    OPENSA_0405
+Name: Document No., dtype: object","193    2400.0
+401     600.0
+Name: Remaining Amt. (LCY), dtype: float64","193    Customer opening
+401    Customer opening
+Name: Description, dtype: object"
+10,12280.0,"2457     PBZ-24-00797
+4793    SIPBZ24+01929
+Name: Document No., dtype: object","2457    3251.22
+4793    9028.78
+Name: Remaining Amt. (LCY), dtype: float64","2457    Invoice PBZ-24-00797
+4793    Invoice SIVI24-01935
+Name: Description, dtype: object"
+2,9971.519531,"0         OPENSA_0001
+4815    SIPBZ24+01481
+Name: Document No., dtype: object","0          0.00
+4815    9971.52
+Name: Remaining Amt. (LCY), dtype: float64","0           Customer opening
+4815    Invoice SIVI24-01483
+Name: Description, dtype: object"
+3,3704.850098,"4473    SIPBZ24+01115
+4645    SIPBZ24+01221
+Name: Document No., dtype: object","4473    1829.31
+4645    1875.54
+Name: Remaining Amt. (LCY), dtype: float64","4473    Invoice SIVI24-01133
+4645    Invoice SIVI24-01235
+Name: Description, dtype: object"
+4,45834.60156,"0         OPENSA_0001
+4518    SIPBZ24+01173
+Name: Document No., dtype: object","0           0.0
+4518    45834.6
+Name: Remaining Amt. (LCY), dtype: float64","0           Customer opening
+4518    Invoice SIVI24-01179
+Name: Description, dtype: object"
+5,57310.39844,"0         OPENSA_0001
+4486    SIPBZ24+01171
+Name: Document No., dtype: object","0           0.0
+4486    57310.4
+Name: Remaining Amt. (LCY), dtype: float64","0           Customer opening
+4486    Invoice SIVI24-01175
+Name: Description, dtype: object"
+6,17800.0,"4173    SIPBZ24+00891
+4225    SIPBZ24+00885
+Name: Document No., dtype: object","4173     4676.1
+4225    13123.9
+Name: Remaining Amt. (LCY), dtype: float64","4173    Invoice SIVI24-00881
+4225    Invoice SIVI24-00891
+Name: Description, dtype: object"
+8,4527.779785,"0         OPENSA_0001
+4637    SIPBZ24+01256
+Name: Document No., dtype: object","0          0.00
+4637    4527.78
+Name: Remaining Amt. (LCY), dtype: float64","0           Customer opening
+4637    Invoice SIVI24-01266
+Name: Description, dtype: object"
+9,164756.9219,"0         OPENSA_0001
+4478    SIPBZ24+01506
+Name: Document No., dtype: object","0            0.00
+4478    164756.92
+Name: Remaining Amt. (LCY), dtype: float64","0           Customer opening
+4478    Invoice SIVI24-01511
+Name: Description, dtype: object"
+3,18100.0,"233       OPENSA_0234
+4816    SIPBZ24+01492
+Name: Document No., dtype: object","233       612.0
+4816    17488.0
+Name: Remaining Amt. (LCY), dtype: float64","233         Customer opening
+4816    Invoice SIVI24-01495
+Name: Description, dtype: object"
+10,50800.0,"4841    SIPBZ24+01592
+5354    SIPBZ24+01973
+Name: Document No., dtype: object","4841    46288.0
+5354     4512.0
+Name: Remaining Amt. (LCY), dtype: float64","4841    Invoice SIVI24-01596
+5354    Invoice SIVI24-01978
+Name: Description, dtype: object"
+15,5816.0,"4709    SIPBZ24+01781
+5180    SIPBZ24+01890
+Name: Document No., dtype: object","4709     515.6
+5180    5300.4
+Name: Remaining Amt. (LCY), dtype: float64","4709    Invoice SIVI24-01783
+5180    Invoice SIVI24-01894
+Name: Description, dtype: object"
+16,13249.0,"4116    SIPBZ24+01084
+4347    SIPBZ24+01005
+Name: Document No., dtype: object","4116    10139.85
+4347     3109.15
+Name: Remaining Amt. (LCY), dtype: float64","4116    Invoice SIVI24-01090
+4347    Invoice SIVI24-00997
+Name: Description, dtype: object"
+31,10148.0,"5008    SIPBZ24+01622
+5177    SIPBZ24+01882
+Name: Document No., dtype: object","5008    6011.4
+5177    4136.6
+Name: Remaining Amt. (LCY), dtype: float64","5008    Invoice SIVI24-01631
+5177    Invoice SIVI24-01886
+Name: Description, dtype: object"
+52,53340.0,"4372    SIPBZ24+00996
+4372    SIPBZ24+00996
+Name: Document No., dtype: object","4372    26670.0
+4372    26670.0
+Name: Remaining Amt. (LCY), dtype: float64","4372    Invoice SIVI24-01001
+4372    Invoice SIVI24-01001
+Name: Description, dtype: object"
+2,13864.33984,"0         OPENSA_0001
+3472    SIPBZ24+00280
+Name: Document No., dtype: object","0           0.00
+3472    13864.34
+Name: Remaining Amt. (LCY), dtype: float64","0           Customer opening
+3472    Invoice SIVI24-00249
+Name: Description, dtype: object"
+3,28250.0,"0         OPENSA_0001
+4957    SIPBZ24+01529
+Name: Document No., dtype: object","0           0.0
+4957    28250.0
+Name: Remaining Amt. (LCY), dtype: float64","0           Customer opening
+4957    Invoice SIVI24-01534
+Name: Description, dtype: object"
+4,12863.75977,"0         OPENSA_0001
+4689    SIPBZ24+01350
+Name: Document No., dtype: object","0           0.00
+4689    12863.76
+Name: Remaining Amt. (LCY), dtype: float64","0           Customer opening
+4689    Invoice SIVI24-01356
+Name: Description, dtype: object"
+5,12922.08984,"4306    SIPBZ24+01272
+4739    SIPBZ24+01373
+Name: Document No., dtype: object","4306    7296.61
+4739    5625.48
+Name: Remaining Amt. (LCY), dtype: float64","4306    Invoice SIVI24-01017
+4739    Invoice SIVI24-01378
+Name: Description, dtype: object"
+4,31893.0,"230       OPENSA_0231
+4258    SIPBZ24+00882
+Name: Document No., dtype: object","230       330.0
+4258    31563.0
+Name: Remaining Amt. (LCY), dtype: float64","230         Customer opening
+4258    Invoice SIVI24-00887
+Name: Description, dtype: object"
+7,19233.0,"3042     PBZ-24-01234
+4975    SIPBZ24+01621
+Name: Document No., dtype: object","3042    14716.8
+4975     4516.2
+Name: Remaining Amt. (LCY), dtype: float64","3042    Invoice PBZ-24-01234
+4975    Invoice SIVI24-01630
+Name: Description, dtype: object"
+2,1500.0,"0      OPENSA_0001
+232    OPENSA_0233
+Name: Document No., dtype: object","0         0.0
+232    1500.0
+Name: Remaining Amt. (LCY), dtype: float64","0      Customer opening
+232    Customer opening
+Name: Description, dtype: object"
+2,6935.470215,"0         OPENSA_0001
+3461    SIPBZ24+00208
+Name: Document No., dtype: object","0          0.00
+3461    6935.47
+Name: Remaining Amt. (LCY), dtype: float64","0           Customer opening
+3461    Invoice SIVI24-00208
+Name: Description, dtype: object"
+3,6537.899902,"3945    SCPBZ24+00030
+5067    SIPBZ24+01698
+Name: Document No., dtype: object","3945   -1213.52
+5067    7751.42
+Name: Remaining Amt. (LCY), dtype: float64","3945    Credit Memo SCVI24-00042
+5067        Invoice SIVI24-01697
+Name: Description, dtype: object"
+4,1433.699951,"0         OPENSA_0001
+4643    SIPBZ24+01270
+Name: Document No., dtype: object","0          0.0
+4643    1433.7
+Name: Remaining Amt. (LCY), dtype: float64","0           Customer opening
+4643    Invoice SIVI24-01275
+Name: Description, dtype: object"
+5,33622.94141,"0         OPENSA_0001
+4630    SIPBZ24+01247
+Name: Document No., dtype: object","0           0.00
+4630    33622.94
+Name: Remaining Amt. (LCY), dtype: float64","0           Customer opening
+4630    Invoice SIVI24-01249
+Name: Description, dtype: object"
+6,68845.0,"0         OPENSA_0001
+4632    SIPBZ24+01251
+Name: Document No., dtype: object","0           0.0
+4632    68845.0
+Name: Remaining Amt. (LCY), dtype: float64","0           Customer opening
+4632    Invoice SIVI24-01260
+Name: Description, dtype: object"
+7,500.0,"0         OPENSA_0001
+5011    SIPBZ24+01642
+Name: Document No., dtype: object","0         0.0
+5011    500.0
+Name: Remaining Amt. (LCY), dtype: float64","0           Customer opening
+5011    Invoice SIVI24-01648
+Name: Description, dtype: object"
+8,13215.59961,"2437     PBZ-24-00868
+4362    SIPBZ24+00951
+Name: Document No., dtype: object","2437     -443.4
+4362    13659.0
+Name: Remaining Amt. (LCY), dtype: float64","2437    Credit Memo PBZ-24-00868
+4362        Invoice SIVI24-00953
+Name: Description, dtype: object"
+10,9117.320313,"4788    SIPBZ24+01483
+4838    SIPBZ24+01503
+Name: Document No., dtype: object","4788    4539.36
+4838    4577.96
+Name: Remaining Amt. (LCY), dtype: float64","4788    Invoice SIVI24-01485
+4838    Invoice SIVI24-01506
+Name: Description, dtype: object"
+11,4459.359863,"0         OPENSA_0001
+4873    SIPBZ24+01501
+Name: Document No., dtype: object","0          0.00
+4873    4459.36
+Name: Remaining Amt. (LCY), dtype: float64","0           Customer opening
+4873    Invoice SIVI24-01504
+Name: Description, dtype: object"
+13,4207.839844,"0         OPENSA_0001
+4636    SIPBZ24+01255
+Name: Document No., dtype: object","0          0.00
+4636    4207.84
+Name: Remaining Amt. (LCY), dtype: float64","0           Customer opening
+4636    Invoice SIVI24-01265
+Name: Description, dtype: object"
+14,91679.0,"0         OPENSA_0001
+4385    SIPBZ24+01038
+Name: Document No., dtype: object","0           0.0
+4385    91679.0
+Name: Remaining Amt. (LCY), dtype: float64","0           Customer opening
+4385    Invoice SIVI24-01044
+Name: Description, dtype: object"
+6,39512.0,"5102    SIPBZ24+01745
+5371    SIPBZ24+02003
+Name: Document No., dtype: object","5102    22017.6
+5371    17494.4
+Name: Remaining Amt. (LCY), dtype: float64","5102    Invoice SIVI24-01760
+5371    Invoice SIVI24-02006
+Name: Description, dtype: object"
+9,8236.0,"4447    SIPBZ24+01130
+4944    SIPBZ24+01576
+Name: Document No., dtype: object","4447    7145.37
+4944    1090.63
+Name: Remaining Amt. (LCY), dtype: float64","4447    Invoice SIVI24-01107
+4944    Invoice SIVI24-01575
+Name: Description, dtype: object"
+10,8236.0,"4447    SIPBZ24+01130
+4944    SIPBZ24+01576
+Name: Document No., dtype: object","4447    7145.37
+4944    1090.63
+Name: Remaining Amt. (LCY), dtype: float64","4447    Invoice SIVI24-01107
+4944    Invoice SIVI24-01575
+Name: Description, dtype: object"
+2,42608.37109,"0         OPENSA_0001
+3933    SIPBZ24+00796
+Name: Document No., dtype: object","0           0.00
+3933    42608.37
+Name: Remaining Amt. (LCY), dtype: float64","0           Customer opening
+3933    Invoice SIVI24-00798
+Name: Description, dtype: object"
+3,8661.599609,"4449    SIPBZ24+01150
+4592    SIPBZ24+01259
+Name: Document No., dtype: object","4449    4334.4
+4592    4327.2
+Name: Remaining Amt. (LCY), dtype: float64","4449    Invoice SIVI24-01153
+4592    Invoice SIVI24-01252
+Name: Description, dtype: object"
+4,34388.19922,"0         OPENSA_0001
+4732    SIPBZ24+01352
+Name: Document No., dtype: object","0           0.0
+4732    34388.2
+Name: Remaining Amt. (LCY), dtype: float64","0           Customer opening
+4732    Invoice SIVI24-01358
+Name: Description, dtype: object"
+6,9085.959961,"3971    SIPBZ24+00468
+4601    SIPBZ24+01399
+Name: Document No., dtype: object","3971    4072.32
+4601    5013.64
+Name: Remaining Amt. (LCY), dtype: float64","3971    Invoice SIVI24-00477
+4601    Invoice SIVI24-01404
+Name: Description, dtype: object"
+8,13688.40039,"0         OPENSA_0001
+4519    SIPBZ24+01178
+Name: Document No., dtype: object","0           0.0
+4519    13688.4
+Name: Remaining Amt. (LCY), dtype: float64","0           Customer opening
+4519    Invoice SIVI24-01182
+Name: Description, dtype: object"
+10,17564.64063,"0         OPENSA_0001
+4869    SIPBZ24+01491
+Name: Document No., dtype: object","0           0.00
+4869    17564.64
+Name: Remaining Amt. (LCY), dtype: float64","0           Customer opening
+4869    Invoice SIVI24-01494
+Name: Description, dtype: object"
+14,20559.01953,"4684    SIPBZ24+01326
+4812    SIPBZ24+01462
+Name: Document No., dtype: object","4684     4706.37
+4812    15852.65
+Name: Remaining Amt. (LCY), dtype: float64","4684    Invoice SIVI24-01331
+4812    Invoice SIVI24-01467
+Name: Description, dtype: object"
+15,6087.080078,"0         OPENSA_0001
+4786    SIPBZ24+01472
+Name: Document No., dtype: object","0          0.00
+4786    6087.08
+Name: Remaining Amt. (LCY), dtype: float64","0           Customer opening
+4786    Invoice SIVI24-01473
+Name: Description, dtype: object"
+16,13750.0,"0         OPENSA_0001
+4823    SIPBZ24+01400
+Name: Document No., dtype: object","0           0.0
+4823    13750.0
+Name: Remaining Amt. (LCY), dtype: float64","0           Customer opening
+4823    Invoice SIVI24-01405
+Name: Description, dtype: object"
+17,19264.36914,"4327    SIPBZ24+00968
+4801    SIPBZ24+01416
+Name: Document No., dtype: object","4327     4203.50
+4801    15060.87
+Name: Remaining Amt. (LCY), dtype: float64","4327    Invoice SIVI24-00975
+4801    Invoice SIVI24-01421
+Name: Description, dtype: object"
+18,55362.35938,"4765    SIPBZ24+01479
+4866    SIPBZ24+01480
+Name: Document No., dtype: object","4765     5638.80
+4866    49723.56
+Name: Remaining Amt. (LCY), dtype: float64","4765    Invoice SIVI24-01481
+4866    Invoice SIVI24-01482
+Name: Description, dtype: object"
+19,20055.59961,"0         OPENSA_0001
+4875    SIPBZ24+01505
+Name: Document No., dtype: object","0           0.0
+4875    20055.6
+Name: Remaining Amt. (LCY), dtype: float64","0           Customer opening
+4875    Invoice SIVI24-01508
+Name: Description, dtype: object"
+20,92466.15625,"0         OPENSA_0001
+4861    SIPBZ24+01459
+Name: Document No., dtype: object","0           0.00
+4861    92466.16
+Name: Remaining Amt. (LCY), dtype: float64","0           Customer opening
+4861    Invoice SIVI24-01464
+Name: Description, dtype: object"
+21,33494.42188,"0         OPENSA_0001
+3917    SIPBZ24+00764
+Name: Document No., dtype: object","0           0.00
+3917    33494.42
+Name: Remaining Amt. (LCY), dtype: float64","0           Customer opening
+3917    Invoice SIVI24-00762
+Name: Description, dtype: object"
+7,8851.0,"4292    SIPBZ24+00967
+5312    SIPBZ24+02028
+Name: Document No., dtype: object","4292    7568.69
+5312    1282.31
+Name: Remaining Amt. (LCY), dtype: float64","4292    Invoice SIVI24-00973
+5312    Invoice SIVI24-02033
+Name: Description, dtype: object"
+16,39443.0,"4484    SIPBZ24+01164
+4847    SIPBZ24+01408
+Name: Document No., dtype: object","4484    17785.0
+4847    21658.0
+Name: Remaining Amt. (LCY), dtype: float64","4484    Invoice SIVI24-01163
+4847    Invoice SIVI24-01413
+Name: Description, dtype: object"
+5,5000.0,"231       OPENSA_0232
+4359    SIPBZ24+00941
+Name: Document No., dtype: object","231      300.0
+4359    4700.0
+Name: Remaining Amt. (LCY), dtype: float64","231         Customer opening
+4359    Invoice SIVI24-00944
+Name: Description, dtype: object"
+6,5000.0,"231       OPENSA_0232
+4359    SIPBZ24+00941
+Name: Document No., dtype: object","231      300.0
+4359    4700.0
+Name: Remaining Amt. (LCY), dtype: float64","231         Customer opening
+4359    Invoice SIVI24-00944
+Name: Description, dtype: object"
+2,31768.41016,"0         OPENSA_0001
+4641    SIPBZ24+01264
+Name: Document No., dtype: object","0           0.00
+4641    31768.41
+Name: Remaining Amt. (LCY), dtype: float64","0           Customer opening
+4641    Invoice SIVI24-01259
+Name: Description, dtype: object"
+3,17856.96094,"0         OPENSA_0001
+4487    SIPBZ24+01172
+Name: Document No., dtype: object","0           0.00
+4487    17856.96
+Name: Remaining Amt. (LCY), dtype: float64","0           Customer opening
+4487    Invoice SIVI24-01177
+Name: Description, dtype: object"
+4,80203.20313,"0         OPENSA_0001
+4814    SIPBZ24+01476
+Name: Document No., dtype: object","0           0.0
+4814    80203.2
+Name: Remaining Amt. (LCY), dtype: float64","0           Customer opening
+4814    Invoice SIVI24-01478
+Name: Description, dtype: object"
+6,9576.660156,"4906    SIPBZ24+01604
+4929    SIPBZ24+01614
+Name: Document No., dtype: object","4906    4655.16
+4929    4921.50
+Name: Remaining Amt. (LCY), dtype: float64","4906    Invoice SIVI24-01611
+4929    Invoice SIVI24-01622
+Name: Description, dtype: object"

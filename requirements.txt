@@ -1,5 +1,5 @@
  # Core dependencies
-pandas==2.2.2
+pandas>=2.0.0
 openpyxl==3.1.2
 
 # For testing
@@ -15,4 +15,6 @@ mock                               # if using older Python (<3.3)
 pylint                             # static analysis
 memory_profiler                   # for performance profiling
 
-
+matplotlib>=3.7.1
+tqdm>=4.65.0
+rapidfuzz>=3.1.1

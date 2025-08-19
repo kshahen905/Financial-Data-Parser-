@@ -1,0 +1,13 @@
+﻿Metric,Value
+"Exact Matches (Part 2.1, first 100)",17.0
+"Subset Matches (Part 2.2 - brute force, first 100)",24.0
+"Optimized Matches (Part 3, all)",186.0
+"GA Matches (Part 4.1, all)",186.0
+"Fuzzy Matches (Part 4.2, all)",0.0
+"GA+Fuzzy Matches (Part 4.3, all)",186.0
+Time Exact (s),0.130203
+Time Subset (s),1286.918182
+Time Optimized (s),6.500284
+Time GA (s),5.951099
+Time Fuzzy (s),3.991296
+Time GA+Fuzzy (s),0.023743
